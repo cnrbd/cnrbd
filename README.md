@@ -16,7 +16,7 @@ I am a second-year undergraduate student at Georgia Institute of Technology stud
 
 ### 📊 Stats
 
-![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnrbd&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=cnrbd&theme=gruvbox&border_radius=4.5) -->
 
