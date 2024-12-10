@@ -4,7 +4,12 @@
 I am a second-year undergraduate student at Georgia Institute of Technology studying Computer Science. This page is dedicated to all the code-related projects, practice, and exercises I have done. I am particularly interested in ML/AI and applying them to tackle real-world problems alongside data-driven algorithms. 
 
 ---
-
+### Links:
+<ul>
+  <li>Personal Email: phuoc.uonggg@gmail.com</li>
+  <li>School Email: kuong3@gatech.edu</li>
+  <li>LinkedIn: https://www.linkedin.com/in/phuoc-connor-uong/</li>
+</ul>
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
