@@ -3,6 +3,8 @@
 
 I am a second-year undergraduate student at Georgia Institute of Technology studying Computer Science. This page is dedicated to all the code-related projects, practice, and exercises I have done. I am particularly interested in ML/AI and applying them to tackle real-world problems alongside data-driven algorithms. 
 
+Currently working on Reinforcement learning stuff (Monte Carlo Methods for prediction/control)!
+
 ---
 ### Links:
 <ul>
